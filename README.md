@@ -1,9 +1,16 @@
 ## Hi there 👋
 
+[![An image of @ornitcg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ornitcg)](https://holopin.io/@ornitcg)
+
+
+
+
+
+
 <!--
 **ornitcg/ornitcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![An image of @ornitcg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ornitcg)](https://holopin.io/@ornitcg)
+
 
 
 Here are some ideas to get you started:
