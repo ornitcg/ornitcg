@@ -4,7 +4,13 @@
 
 <span>Tech Stack</span>
 
-
+<div style="display:flex;" align="center">
+  <span>
+      <img height="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+      <img height="30" src="">
+  </span>
+  
+</div>
 
 
 
