@@ -14,9 +14,9 @@
       <img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg">   
     <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">  
     <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg"> 
+<!--     <img height="40" src=""> 
     <img height="40" src=""> 
-    <img height="40" src=""> 
-    <img height="40" src=""> 
+    <img height="40" src="">  -->
   </span>
   
 </div>
